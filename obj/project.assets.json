@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git-takes-two\\helloapp-black\\helloapp-black.csproj",
+      "projectUniqueName": "E:\\git-takes-two\\helloapp-white\\helloapp-black.csproj",
       "projectName": "helloapp-black",
-      "projectPath": "E:\\git-takes-two\\helloapp-black\\helloapp-black.csproj",
+      "projectPath": "E:\\git-takes-two\\helloapp-white\\helloapp-black.csproj",
       "packagesPath": "C:\\Users\\chery\\.nuget\\packages\\",
-      "outputPath": "E:\\git-takes-two\\helloapp-black\\obj\\",
+      "outputPath": "E:\\git-takes-two\\helloapp-white\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chery\\AppData\\Roaming\\NuGet\\NuGet.Config",
